@@ -1,0 +1,11 @@
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\bin\Debug\GDIdemo.exe.config
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\bin\Debug\GDIdemo.exe
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\bin\Debug\GDIdemo.pdb
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\obj\Debug\GDIdemo.csprojAssemblyReference.cache
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\obj\Debug\GDIdemo.Properties.Resources.resources
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\obj\Debug\GDIdemo.csproj.GenerateResource.cache
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\obj\Debug\GDIdemo.csproj.CoreCompileInputs.cache
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\obj\Debug\GDIdemo.exe
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\obj\Debug\GDIdemo.pdb
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\obj\Debug\GDIdemo.MDIParent1.resources
+C:\Users\DHRUMIL MEHTA\Desktop\.net\GDIdemo\GDIdemo\obj\Debug\GDIdemo.child.resources

@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/charusat.Master" AutoEventWireup="true" CodeBehind="CSPIT.master.cs" Inherits="lab8.CSPIT"%>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+        .auto-style5 {
+            color: #00FFFF;
+        }
+        .auto-style6 {
+            font-size: x-large;
+            color: #FFFFFF;
+            background-color: #000000;
+        }
+    </style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <p class="auto-style2">
+        <strong><span class="auto-style6">Welcome to Devang Patel Institute of Advanced technology & Research</span></strong><br />
+        <asp:Image ID="Image2" runat="server" CssClass="auto-style5" ImageUrl="~/img/depstar.png" />
+        <br />
+        <br />
+    </p>
+    <asp:ContentPlaceHolder ID="depstar" runat="server">
+
+    </asp:ContentPlaceHolder>
+    <br />
+</asp:Content>
+

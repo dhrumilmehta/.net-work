@@ -1,0 +1,15 @@
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\bin\Debug\netcoreapp3.1\Windows_calculator.exe
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\bin\Debug\netcoreapp3.1\Windows_calculator.deps.json
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\bin\Debug\netcoreapp3.1\Windows_calculator.runtimeconfig.json
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\bin\Debug\netcoreapp3.1\Windows_calculator.runtimeconfig.dev.json
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\bin\Debug\netcoreapp3.1\Windows_calculator.dll
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\bin\Debug\netcoreapp3.1\Windows_calculator.pdb
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\obj\Debug\netcoreapp3.1\Windows_calculator.csprojAssemblyReference.cache
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\obj\Debug\netcoreapp3.1\Windows_calculator.Form1.resources
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\obj\Debug\netcoreapp3.1\Windows_calculator.csproj.GenerateResource.cache
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\obj\Debug\netcoreapp3.1\Windows_calculator.AssemblyInfoInputs.cache
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\obj\Debug\netcoreapp3.1\Windows_calculator.AssemblyInfo.cs
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\obj\Debug\netcoreapp3.1\Windows_calculator.csproj.CoreCompileInputs.cache
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\obj\Debug\netcoreapp3.1\Windows_calculator.dll
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\obj\Debug\netcoreapp3.1\Windows_calculator.pdb
+C:\Users\DHRUMIL MEHTA\Desktop\.net\Windows_calculator\Windows_calculator\obj\Debug\netcoreapp3.1\Windows_calculator.genruntimeconfig.cache
